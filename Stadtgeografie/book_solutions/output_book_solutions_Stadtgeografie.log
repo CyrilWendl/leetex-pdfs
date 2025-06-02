@@ -1,0 +1,4633 @@
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.6.2)  2 JUN 2025 15:36
+ restricted system commands enabled.
+**/home/leetex/actions-runner/_work/LeeTeX/LeeTeX/output_book_solutions_Stadtge
+ografie.tex
+
+(/home/leetex/actions-runner/_work/LeeTeX/LeeTeX/output_book_solutions_Stadtgeo
+grafie.tex
+LaTeX2e <2025-06-01>
+L3 programming layer <2025-05-26>
+Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "/home/leetex/.texlive2025/texmf-var
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "/usr/local/texlive/2025/texmf-dist/tex/luatex/luaotfload/fontloader-
+2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/leetex/.texlive2025/texmf-var
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/202
+5/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/leetex/.texlive2025/texm
+f-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count273
+\c@chapter=\count274
+\c@section=\count275
+\c@subsection=\count276
+\c@subsubsection=\count277
+\c@paragraph=\count278
+\c@subparagraph=\count279
+\c@figure=\count280
+\c@table=\count281
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen147
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+)
+(./Setups/cyril_book_solutions_Stadtgeografie.tex)
+(./Preambles/pre_0_packages.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/05/12 v2.5 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-05-26 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2025-04-14 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count283
+Inserting `l3color' in `luaotfload.parse_color'.))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count284
+\l__fontspec_language_int=\count285
+\l__fontspec_strnum_int=\count286
+\l__fontspec_tmp_int=\count287
+\l__fontspec_tmpa_int=\count288
+\l__fontspec_tmpb_int=\count289
+\l__fontspec_tmpc_int=\count290
+\l__fontspec_em_int=\count291
+\l__fontspec_emdef_int=\count292
+\l__fontspec_strong_int=\count293
+\l__fontspec_strongdef_int=\count294
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Lua module: polyglossia 2013/05/11 v1.3 Polyglossia
+\l_xpg_alias_keyvals_int=\count295
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+)
+
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz
+
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-german.ldf
+File: gloss-german.ldf polyglossia: module for German
+Module polyglossia Info: Language data for german
+(polyglossia)            hyphenation	
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	loadhyph-de-1901.tex
+(polyglossia)            patterns	hyph-de-1901.pat.txt
+(polyglossia)            righthyphenmin	2
+(polyglossia)            synonyms	 on input line 15
+Module polyglossia Info: Language german was not yet loaded; created with id 2 o
+n input line 15
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 207.
+)
+
+Package polyglossia Info: Default language is german
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2025-05-20 v7.01m Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks18
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2025-05-20 v7.01m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2025-05-20 v7.01m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count300
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen152
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2025-05-20 v7.01m Hyperref driver for luaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
+\xs_counta=\count307
+\xs_countb=\count308
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count309
+\csq@gtype=\count310
+\csq@glevel=\count311
+\csq@qlevel=\count312
+\csq@maxlvl=\count313
+\csq@tshold=\count314
+\csq@ltx@everypar=\toks21
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count315
+\lst@gtempboxa=\box53
+\lst@token=\toks22
+\lst@length=\count316
+\lst@currlwidth=\dimen155
+\lst@column=\count317
+\lst@pos=\count318
+\lst@lostspace=\dimen156
+\lst@width=\dimen157
+\lst@newlines=\count319
+\lst@lineno=\count320
+\lst@maxwidth=\dimen158
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count321
+\lst@skipnumbers=\count322
+\lst@framebox=\box54
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count323
+\float@exts=\toks23
+\float@box=\box55
+\@float@everytoks=\toks24
+\@floatcapt=\box56
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count324
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count325
+\c@ALG@rem=\count326
+\c@ALG@nested=\count327
+\ALG@tlm=\skip52
+\ALG@thistlm=\skip53
+\c@ALG@Lnr=\count328
+\c@ALG@blocknr=\count329
+\c@ALG@storecount=\count330
+\c@ALG@tmpcounter=\count331
+\ALG@tmplength=\skip54
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/05/18 v2.17x AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen159
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count332
+LaTeX Info: Redefining \frac on input line 235.
+\uproot@=\count333
+\leftroot@=\count334
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count335
+\DOTSCASE@=\count336
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count337
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count338
+\dotsspace@=\muskip18
+\c@parentequation=\count339
+\dspbrk@lvl=\count340
+\tag@help=\toks27
+\row@=\count341
+\column@=\count342
+\maxfields@=\count343
+\andhelp@=\toks28
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks29
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks31
+\minaw@=\dimen168
+\bigaw@=\dimen169
+\minCDarrowwidth=\dimen170
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks32
+\thm@bodyfont=\toks33
+\thm@headfont=\toks34
+\thm@notefont=\toks35
+\thm@headpunct=\toks36
+\thm@preskip=\skip58
+\thm@postskip=\skip59
+\thm@headsep=\skip60
+\dth@everypar=\toks37
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/lmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polynom/polynom.sty
+Package: polynom 2017/07/17 0.19 (CH,HA)
+\pld@currstage=\count344
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count345
+\calc@Bcount=\count346
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count347
+\calc@Cskip=\skip63
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count348
+\l_MT_multwidth_dim=\dimen173
+\origjot=\skip64
+\l_MT_shortvdotswithinadjustabove_dim=\dimen174
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen175
+\l_MT_above_intertext_sep=\dimen176
+\l_MT_below_intertext_sep=\dimen177
+\l_MT_above_shortintertext_sep=\dimen178
+\l_MT_below_shortintertext_sep=\dimen179
+\xmathstrut@box=\box59
+\xmathstrut@dim=\dimen180
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen183
+\WF@size=\dimen184
+\c@WF@wrappedlines=\count349
+\WF@box=\box60
+\WF@everypar=\toks38
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen185
+\captionmargin=\dimen186
+\caption@leftmargin=\dimen187
+\caption@rightmargin=\dimen188
+\caption@width=\dimen189
+\caption@indent=\dimen190
+\caption@parindent=\dimen191
+\caption@hangindent=\dimen192
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count350
+\c@continuedfloat=\count351
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count352
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count353
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+\c@tracingmulticols=\count354
+\mult@box=\box61
+\multicol@leftmargin=\dimen193
+\c@unbalance=\count355
+\c@collectmore=\count356
+\doublecol@number=\count357
+\multicoltolerance=\count358
+\multicolpretolerance=\count359
+\full@width=\dimen194
+\page@free=\dimen195
+\premulticols=\dimen196
+\postmulticols=\dimen197
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box62
+\last@line=\box63
+\mc@boxedresult=\box64
+\maxbalancingoverflow=\dimen198
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@firstbox=\box67
+\mult@gfirstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@minrows=\count360
+\c@columnbadness=\count361
+\c@finalcolumnbadness=\count362
+\last@try=\dimen199
+\multicolovershoot=\dimen256
+\multicolundershoot=\dimen257
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count363
+\g__mc_curr_col_int=\count364
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/jeuxcartes/JeuxCartes.sty
+Package: JeuxCartes 2025/05/20 v0.3.2 Jeux de cartes
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen258
+\pgfutil@tempdimb=\dimen259
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box107
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen260
+\pgf@y=\dimen261
+\pgf@xa=\dimen262
+\pgf@ya=\dimen263
+\pgf@xb=\dimen264
+\pgf@yb=\dimen265
+\pgf@xc=\dimen266
+\pgf@yc=\dimen267
+\pgf@xd=\dimen268
+\pgf@yd=\dimen269
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count365
+\c@pgf@countb=\count366
+\c@pgf@countc=\count367
+\c@pgf@countd=\count368
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count369
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.d
+ef
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count370
+\pgfsyssoftpath@bigbuffer@items=\count371
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2024/09/29 v3.02 Predefined colors according to SVG 1.1 (UK)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen270
+\pgfmath@count=\count372
+\pgfmath@box=\box108
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count373
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen271
+\pgf@picmaxx=\dimen272
+\pgf@picminy=\dimen273
+\pgf@picmaxy=\dimen274
+\pgf@pathminx=\dimen275
+\pgf@pathmaxx=\dimen276
+\pgf@pathminy=\dimen277
+\pgf@pathmaxy=\dimen278
+\pgf@xx=\dimen279
+\pgf@xy=\dimen280
+\pgf@yx=\dimen281
+\pgf@yy=\dimen282
+\pgf@zx=\dimen283
+\pgf@zy=\dimen284
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen285
+\pgf@path@lasty=\dimen286
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen287
+\pgf@shorten@start@additional=\dimen288
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box109
+\pgf@hbox=\box110
+\pgf@layerbox@main=\box111
+\pgf@picture@serial@count=\count374
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen289
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen290
+\pgf@pt@y=\dimen291
+\pgf@pt@temp=\dimen292
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen293
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen294
+\pgf@sys@shading@range@num=\count375
+\pgf@shadingcount=\count376
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box112
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box113
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen295
+\pgf@nodesepend=\dimen296
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen297
+\pgffor@skip=\dimen298
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count377
+\pgfplotmarksize=\dimen299
+)
+\tikz@lastx=\dimen300
+\tikz@lasty=\dimen301
+\tikz@lastxsaved=\dimen302
+\tikz@lastysaved=\dimen303
+\tikz@lastmovetox=\dimen304
+\tikz@lastmovetoy=\dimen305
+\tikzleveldistance=\dimen306
+\tikzsiblingdistance=\dimen307
+\tikz@figbox=\box114
+\tikz@figbox@bg=\box115
+\tikz@tempbox=\box116
+\tikz@tempbox@bg=\box117
+\tikztreelevel=\count378
+\tikznumberofchildren=\count379
+\tikznumberofcurrentchild=\count380
+\tikz@fig@count=\count381
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count382
+\pgfmatrixcurrentcolumn=\count383
+\pgf@matrix@numberofcolumns=\count384
+)
+\tikz@expandcount=\count385
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_cnt_foreach_nest=\count386
+\loi_nestcnt=\count387
+)
+Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified 
+sep char (CT)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/simplekv/simplekv.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/simplekv/simplekv.tex)
+Package: simplekv 2025/06/01 v0.31 Simple keyval package (CT)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xint/xinttools.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xint/xintkernel.sty
+Package: xintkernel 2022/06/10 v1.4m Paraphernalia for the xint packages (JFB)
+\xint_c_ii^xiv=\count388
+\xint_c_ii^xxi=\count389
+)
+Package: xinttools 2022/06/10 v1.4m Expandable and non-expandable utilities (JF
+B)
+\XINT_toks=\toks51
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/randomlist/randomlist.sty
+Package: randomlist 2017/09/11 v1.3 Package for random list (JCC, CT)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks52
+\XKV@tempa@toks=\toks53
+)
+\XKV@depth=\count390
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/randomlist/randomlist.tex
+\RL@random=\count391
+\RL@random@a=\count392
+\RL@random@b=\count393
+\@ListOfList=\toks54
+\RL@counti=\count394
+\RL@countii=\count395
+\RL@countiii=\count396
+\RL@hdle=\read4
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryscopes.code.tex
+File: tikzlibraryscopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\jeuxcartesjeuhoffset=\skip67
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
+sages
+\sl@Save=\count397
+\sl@StateNumber=\count398
+\sl@MessageCount=\count399
+\sl@Casualties=\count400
+\sl@Filter=\toks55
+\sl@Message=\toks56
+\sl@UnexpandedMessage=\toks57
+\sl@Mess@ge=\toks58
+\sl@WarningCount=\count401
+\sl@WarningNumber=\count402
+\sl@WarningCasualties=\count403
+\sl@TempBOW=\toks59
+\sl@BankOfWarnings=\toks60
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count404
+\sl@ErrorNumber=\count405
+\sl@ErrorCasualties=\count406
+\sl@TempBOE=\toks61
+\sl@BankOfErrors=\toks62
+LaTeX Info: Redefining \GenericError on input line 601.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.sty
+Package: tikzpeople 2017/04/22 v0.4 People shaped nodes for Tikz
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryinterse
+ctions.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+\pgf@intersect@solutions=\count407
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.markings.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen308
+\pgfdecoratedremainingdistance=\dimen309
+\pgfdecoratedinputsegmentcompleteddistance=\dimen310
+\pgfdecoratedinputsegmentremainingdistance=\dimen311
+\pgf@decorate@distancetomove=\dimen312
+\pgf@decorate@repeatstate=\count408
+\pgfdecorationsegmentamplitude=\dimen313
+\pgfdecorationsegmentlength=\dimen314
+)
+\tikz@lib@dec@box=\box118
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.markings.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen315
+\pgfarrowlength=\dimen316
+\pgfarrowwidth=\dimen317
+\pgfarrowlinewidth=\dimen318
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.alice
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.bob.s
+ty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.bride
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.build
+er.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.busin
+essman.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.charl
+ie.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.chef.
+sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.condu
+ctor.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.cowbo
+y.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.crimi
+nal.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.dave.
+sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.devil
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.duck.
+sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.gradu
+ate.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.groom
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.guard
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.jeste
+r.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.judge
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.manin
+black.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.mexic
+an.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.nun.s
+ty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.nurse
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.physi
+cian.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.pilot
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.polic
+e.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.pries
+t.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.sailo
+r.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.santa
+.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzpeople/tikzpeople.shape.surge
+on.sty)) (/usr/local/texlive/2025/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+Package: tikzsymbols 2021/12/14 v4.12a Some symbols created using tikz and LaTe
+X3.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen319
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\l__tikzsymbols_Moai_thickness_dim=\dimen320
+\l__tikzsymbols_Kochtopf_nr_arguments_int=\count409
+\l__tikzsymbols_Bratpfanne_nr_arguments_int=\count410
+\l__tikzsymbols_Schneebesen_nr_arguments_int=\count411
+\l__tikzsymbols_Sieb_nr_arguments_int=\count412
+\l__tikzsymbols_Purierstab_nr_arguments_int=\count413
+\l__tikzsymbols_Dreizack_nr_arguments_int=\count414
+\l__tikzsymbols_Backblech_nr_arguments_int=\count415
+\l__tikzsymbols_Ofen_nr_arguments_int=\count416
+\l__tikzsymbols_Pfanne_nr_arguments_int=\count417
+\l__tikzsymbols_Herd_nr_arguments_int=\count418
+\l__tikzsymbols_Saftpresse_nr_arguments_int=\count419
+\l__tikzsymbols_Schussel_nr_arguments_int=\count420
+\l__tikzsymbols_Schaler_nr_arguments_int=\count421
+\l__tikzsymbols_Reibe_nr_arguments_int=\count422
+\l__tikzsymbols_Flasche_nr_arguments_int=\count423
+\l__tikzsymbols_Nudelholz_nr_arguments_int=\count424
+\l__tikzsymbols_Knoblauchpresse_nr_arguments_int=\count425
+\l__tikzsymbols_Sadey_nr_arguments_int=\count426
+\l__tikzsymbols_dSadey_nr_arguments_int=\count427
+\l__tikzsymbols_Changey_nr_arguments_int=\count428
+\l__tikzsymbols_dChangey_nr_arguments_int=\count429
+\l__tikzsymbols_cChangey_nr_arguments_int=\count430
+\l__tikzsymbols_dcChangey_nr_arguments_int=\count431
+\l__tikzsymbols_Annoey_nr_arguments_int=\count432
+\l__tikzsymbols_dAnnoey_nr_arguments_int=\count433
+\l__tikzsymbols_dSmiley_nr_arguments_int=\count434
+\l__tikzsymbols_Laughey_nr_arguments_int=\count435
+\l__tikzsymbols_dLaughey_nr_arguments_int=\count436
+\l__tikzsymbols_Neutrey_nr_arguments_int=\count437
+\l__tikzsymbols_dNeutrey_nr_arguments_int=\count438
+\l__tikzsymbols_Winkey_nr_arguments_int=\count439
+\l__tikzsymbols_oldWinkey_nr_arguments_int=\count440
+\l__tikzsymbols_dWinkey_nr_arguments_int=\count441
+\l__tikzsymbols_olddWinkey_nr_arguments_int=\count442
+\l__tikzsymbols_Sey_nr_arguments_int=\count443
+\l__tikzsymbols_dSey_nr_arguments_int=\count444
+\l__tikzsymbols_Xey_nr_arguments_int=\count445
+\l__tikzsymbols_dXey_nr_arguments_int=\count446
+\l__tikzsymbols_Innocey_nr_arguments_int=\count447
+\l__tikzsymbols_wInnocey_nr_arguments_int=\count448
+\l__tikzsymbols_dInnocey_nr_arguments_int=\count449
+\l__tikzsymbols_Cooley_nr_arguments_int=\count450
+\l__tikzsymbols_dCooley_nr_arguments_int=\count451
+\l__tikzsymbols_Tongey_nr_arguments_int=\count452
+\l__tikzsymbols_dTongey_nr_arguments_int=\count453
+\l__tikzsymbols_Nursey_nr_arguments_int=\count454
+\l__tikzsymbols_dNursey_nr_arguments_int=\count455
+\l__tikzsymbols_Vomey_nr_arguments_int=\count456
+\l__tikzsymbols_dVomey_nr_arguments_int=\count457
+\l__tikzsymbols_Walley_nr_arguments_int=\count458
+\l__tikzsymbols_rWalley_nr_arguments_int=\count459
+\l__tikzsymbols_dWalley_nr_arguments_int=\count460
+\l__tikzsymbols_drWalley_nr_arguments_int=\count461
+\l__tikzsymbols_Cat_nr_arguments_int=\count462
+\l__tikzsymbols_SchrodingersCat_nr_arguments_int=\count463
+\l__tikzsymbols_Ninja_nr_arguments_int=\count464
+\l__tikzsymbols_dNinja_nr_arguments_int=\count465
+\l__tikzsymbols_Sleepey_nr_arguments_int=\count466
+\l__tikzsymbols_dSleepey_nr_arguments_int=\count467
+\l__tikzsymbols_Maskey_nr_arguments_int=\count468
+\l__tikzsymbols_NiceReapey_nr_arguments_int=\count469
+\l__tikzsymbols_Strichmaxerl_nr_arguments_int=\count470
+\l__tikzsymbols_Person_nr_arguments_int=\count471
+\l__tikzsymbols_dHeart_nr_arguments_int=\count472
+\l__tikzsymbols_HeartBroken_nr_arguments_int=\count473
+\l__tikzsymbols_Candle_nr_arguments_int=\count474
+\l__tikzsymbols_Fire_nr_arguments_int=\count475
+\l__tikzsymbols_Chair_nr_arguments_int=\count476
+\l__tikzsymbols_Bed_nr_arguments_int=\count477
+\l__tikzsymbols_Tribar_nr_arguments_int=\count478
+\l__tikzsymbols_Moai_nr_arguments_int=\count479
+\l__tikzsymbols_Snowman_nr_arguments_int=\count480
+\l__tikzsymbols_BasicTree_nr_arguments_int=\count481
+\l__tikzsymbols_WorstTree_nr_arguments_int=\count482
+\l__tikzsymbols_Springtree_nr_arguments_int=\count483
+\l__tikzsymbols_Summertree_nr_arguments_int=\count484
+\l__tikzsymbols_Autumntree_nr_arguments_int=\count485
+\l__tikzsymbols_Wintertree_nr_arguments_int=\count486
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikz-3dplot/tikz-3dplot.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/forest/forest.sty
+Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.callouts.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.callouts.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box119
+\pgfnodeparttwobox=\box120
+\pgfnodepartthreebox=\box121
+\pgfnodepartfourbox=\box122
+\pgfnodeparttwentybox=\box123
+\pgfnodepartnineteenbox=\box124
+\pgfnodeparteighteenbox=\box125
+\pgfnodepartseventeenbox=\box126
+\pgfnodepartsixteenbox=\box127
+\pgfnodepartfifteenbox=\box128
+\pgfnodepartfourteenbox=\box129
+\pgfnodepartthirteenbox=\box130
+\pgfnodeparttwelvebox=\box131
+\pgfnodepartelevenbox=\box132
+\pgfnodeparttenbox=\box133
+\pgfnodepartninebox=\box134
+\pgfnodeparteightbox=\box135
+\pgfnodepartsevenbox=\box136
+\pgfnodepartsixbox=\box137
+\pgfnodepartfivebox=\box138
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks63
+\pgfopts@list@add@b@toks=\toks64
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/elocalloc/elocalloc.sty
+Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/inlinedef/inlinedef.sty
+Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
+\ID@toks=\toks65
+\ID@count=\count487
+)
+\ID@usercommands=\toks66
+\safeloop@depth=\count488
+\safeRKloop@depth=\count489
+\forest@temp@dimen=\dimen321
+\forest@temp@count=\count490
+\forest@n=\count491
+\forest@temp@global@count=\count492
+\forest@temp@toks=\toks67
+\forest@temparray@M=\count493
+\forest@temparray@N=\count494
+\forest@global@temparray@M=\count495
+\forest@global@temparray@N=\count496
+\forest@isnum@count=\count497
+\forest@isdim@nonintpart=\count498
+\forest@isdim@dimen=\dimen322
+\forest@sort@m=\count499
+\forest@sort@k=\count500
+\forest@sort@p=\count501
+\bracket@content=\toks68
+\bracket@afterthought=\toks69
+\forest@node@maxid=\count502
+\forest@process@left@M=\count503
+\forest@process@left@N=\count504
+\forest@process@right@M=\count505
+\forest@process@right@N=\count506
+\forest@process@saved@M=\count507
+\forest@process@saved@N=\count508
+\forest@process@result@M=\count509
+\forest@process@result@N=\count510
+\forest@process@n=\count511
+\forest@nodewalk@branch@toks=\toks70
+\forest@nodewalk@shortsteps@resolution=\toks71
+\forest@do@dynamics=\toks72
+\forest@box=\box139
+\forest@xg=\dimen323
+\forest@yg=\dimen324
+\forest@xs=\dimen325
+\forest@ys=\dimen326
+\forest@pi@toks=\toks73
+\forest@segment@toks=\toks74
+\forest@PIi@toks=\toks75
+\forest@PIii@toks=\toks76
+\forest@copy@in=\read5
+\forest@copy@out=\write4
+\forest@externalize@max@outer@n=\count512
+\forest@externalize@inner@n=\count513
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+Package pgfplots info on input line 124: Initializing with LUA version Lua 5.3
+\pgfplots@luabackend@table=\catcodetable14
+\t@pgfplots@toka=\toks77
+\t@pgfplots@tokb=\toks78
+\t@pgfplots@tokc=\toks79
+\pgfplots@tmpa=\dimen327
+\c@pgfplots@coordindex=\count514
+\c@pgfplots@scanlineindex=\count515
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks80
+\t@pgf@tokb=\toks81
+\t@pgf@tokc=\toks82
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgfutil-common-lists.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibrar
+yluamath.code.tex)
+Package pgfplots info on input line 290: luamath library shipped with pgf 3.1.1
+0 is up-to-date
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+Package pgfplots info on input line 82: Found new luatex: initializing lua comm
+ands instead of write18 (shell-escape)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count516
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count517
+\t@pgfplotstable@a=\toks83
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count518
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-luatex.def)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
+ts.contourlua.code.tex)
+\pgfplots@numplots=\count519
+\pgfplots@xmin@reg=\dimen328
+\pgfplots@xmax@reg=\dimen329
+\pgfplots@ymin@reg=\dimen330
+\pgfplots@ymax@reg=\dimen331
+\pgfplots@zmin@reg=\dimen332
+\pgfplots@zmax@reg=\dimen333
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count520
+Package zref Info: New property: abspage on input line 67.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+)
+\mdf@templength=\skip68
+\c@mdf@globalstyle@cnt=\count521
+\mdf@skipabove@length=\skip69
+\mdf@skipbelow@length=\skip70
+\mdf@leftmargin@length=\skip71
+\mdf@rightmargin@length=\skip72
+\mdf@innerleftmargin@length=\skip73
+\mdf@innerrightmargin@length=\skip74
+\mdf@innertopmargin@length=\skip75
+\mdf@innerbottommargin@length=\skip76
+\mdf@splittopskip@length=\skip77
+\mdf@splitbottomskip@length=\skip78
+\mdf@outermargin@length=\skip79
+\mdf@innermargin@length=\skip80
+\mdf@linewidth@length=\skip81
+\mdf@innerlinewidth@length=\skip82
+\mdf@middlelinewidth@length=\skip83
+\mdf@outerlinewidth@length=\skip84
+\mdf@roundcorner@length=\skip85
+\mdf@footenotedistance@length=\skip86
+\mdf@userdefinedwidth@length=\skip87
+\mdf@needspace@length=\skip88
+\mdf@frametitleaboveskip@length=\skip89
+\mdf@frametitlebelowskip@length=\skip90
+\mdf@frametitlerulewidth@length=\skip91
+\mdf@frametitleleftmargin@length=\skip92
+\mdf@frametitlerightmargin@length=\skip93
+\mdf@shadowsize@length=\skip94
+\mdf@extratopheight@length=\skip95
+\mdf@subtitleabovelinewidth@length=\skip96
+\mdf@subtitlebelowlinewidth@length=\skip97
+\mdf@subtitleaboveskip@length=\skip98
+\mdf@subtitlebelowskip@length=\skip99
+\mdf@subtitleinneraboveskip@length=\skip100
+\mdf@subtitleinnerbelowskip@length=\skip101
+\mdf@subsubtitleabovelinewidth@length=\skip102
+\mdf@subsubtitlebelowlinewidth@length=\skip103
+\mdf@subsubtitleaboveskip@length=\skip104
+\mdf@subsubtitlebelowskip@length=\skip105
+\mdf@subsubtitleinneraboveskip@length=\skip106
+\mdf@subsubtitleinnerbelowskip@length=\skip107
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box140
+\mdf@footnotebox=\box141
+\mdf@splitbox@one=\box142
+\mdf@splitbox@two=\box143
+\mdf@splitbox@save=\box144
+\mdfsplitboxwidth=\skip108
+\mdfsplitboxtotalwidth=\skip109
+\mdfsplitboxheight=\skip110
+\mdfsplitboxdepth=\skip111
+\mdfsplitboxtotalheight=\skip112
+\mdfframetitleboxwidth=\skip113
+\mdfframetitleboxtotalwidth=\skip114
+\mdfframetitleboxheight=\skip115
+\mdfframetitleboxdepth=\skip116
+\mdfframetitleboxtotalheight=\skip117
+\mdffootnoteboxwidth=\skip118
+\mdffootnoteboxtotalwidth=\skip119
+\mdffootnoteboxheight=\skip120
+\mdffootnoteboxdepth=\skip121
+\mdffootnoteboxtotalheight=\skip122
+\mdftotallinewidth=\skip123
+\mdfboundingboxwidth=\skip124
+\mdfboundingboxtotalwidth=\skip125
+\mdfboundingboxheight=\skip126
+\mdfboundingboxdepth=\skip127
+\mdfboundingboxtotalheight=\skip128
+\mdf@freevspace@length=\skip129
+\mdf@horizontalwidthofbox@length=\skip130
+\mdf@verticalmarginwhole@length=\skip131
+\mdf@horizontalspaceofbox=\skip132
+\mdfsubtitleheight=\skip133
+\mdfsubsubtitleheight=\skip134
+\c@mdfcountframes=\count522
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count523
+\c@mdf@env@i=\count524
+\c@mdf@env@ii=\count525
+\c@mdf@zref@counter=\count526
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+\FN@temptoken=\toks84
+\footnotemargin=\dimen334
+Package footmisc Info: Declaring symbol style bringhurst on input line 549.
+Package footmisc Info: Declaring symbol style chicago on input line 557.
+Package footmisc Info: Declaring symbol style wiley on input line 566.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 597.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
+.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count527
+\c@@ppsavesec=\count528
+\c@@ppsaveapp=\count529
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
+ways
+\c@@stackindex=\count530
+\@boxshift=\skip135
+\stack@tmplength=\skip136
+\temp@stkl=\skip137
+\@stackedboxwidth=\skip138
+\@addedbox=\box145
+\@anchorbox=\box146
+\@insetbox=\box147
+\se@backgroundbox=\box148
+\stackedbox=\box149
+\@centerbox=\box150
+\c@ROWcellindex@=\count531
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tasks/tasks.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
+)
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count532
+\l__tasks_columns_int=\count533
+\g__tasks_rows_int=\count534
+\g__tasks_current_col_num_int=\count535
+\g__tasks_current_row_num_int=\count536
+\l__tasks_item_columns_int=\count537
+\g__tasks_env_int=\count538
+\l__tasks_start_int=\count539
+\l__tasks_item_indent_dim=\dimen335
+\l__tasks_item_default_indent_dim=\dimen336
+\l__tasks_item_width_dim=\dimen337
+\l__tasks_label_width_dim=\dimen338
+\l__tasks_label_default_width_dim=\dimen339
+\l__tasks_label_offset_dim=\dimen340
+\l__tasks_label_default_offset_dim=\dimen341
+\l__tasks_column_sep_dim=\dimen342
+\l__tasks_correction_dim=\dimen343
+\l__tasks_full_width_dim=\dimen344
+\l__tasks_after_item_skip=\skip139
+\l__tasks_custom_after_item_skip=\skip140
+\l__tasks_before_list_skip=\skip141
+\l__tasks_after_list_skip=\skip142
+\l__tasks_item_coffin=\box151
+\l__tasks_label_coffin=\box152
+\c@task=\count540
+\l__tasks_tmpa_int=\count541
+\l__tasks_tmpb_int=\count542
+\l__tasks_tmpa_coffin=\box153
+\l__tasks_tmpa_box=\box154
+
+LaTeX template Info: Declaring template type 'tasks' taking 3 argument(s) on
+(template)           line 450.
+
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/tasks/tasks.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/exercise/exercise.sty
+Package: exercise 2014/10/20 v1.6 Exercise package (P.Pichaureau)
+\ExerciseSkipBefore=\skip143
+\ExerciseSkipAfter=\skip144
+\AnswerSkipBefore=\skip145
+\AnswerSkipAfter=\skip146
+\Exesep=\skip147
+\Exetopsep=\skip148
+\Exeparsep=\skip149
+\Exepartopsep=\skip150
+\Exeleftmargin=\skip151
+\Exerightmargin=\skip152
+\Exelabelwidth=\skip153
+\Exelabelsep=\skip154
+\ExerciseBefore=\skip155
+\QuestionBefore=\skip156
+\subQuestionBefore=\skip157
+\subsubQuestionBefore=\skip158
+\QuestionIndent=\skip159
+\subQuestionIndent=\skip160
+\subsubQuestionIndent=\skip161
+\c@Exercise=\count543
+\c@Answer=\count544
+\c@ExePart=\count545
+\c@Question=\count546
+\c@subQuestion=\count547
+\c@subsubQuestion=\count548
+\c@savedQuestion=\count549
+\c@savedsubQuestion=\count550
+\c@savedsubsubQuestion=\count551
+\@QuestionLevel=\count552
+\@Exercisebox=\box155
+\all@Exercisebox=\box156
+\temp@Exercisebox=\box157
+\all@Answerbox=\box158
+\temp@Answerbox=\box159
+\ExerciseDifficulty=\count553
+\QuestionDifficulty=\count554
+\subQuestionDifficulty=\count555
+\subsubQuestionDifficulty=\count556
+\ExePartDifficulty=\count557
+\@Answerbox=\box160
+\colonnesLevel=\count558
+\tempskipa=\skip162
+\tempskipb=\skip163
+\@savedmathindent=\skip164
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/drawmatrix/drawmatrix.sty
+Package: drawmatrix 2017/06/05 v1.5.0 drawmatrix package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/twemojis/twemojis.sty
+Package: twemojis 2022/03/30 v1.3.1 LaTeX twemojis (twemoji v14.0.1)
+\twemojiDefaultHeight=\skip165
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/emoji/emoji.sty
+Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/emoji/emoji-table.def
+File: emoji-table.def 2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen345
+\lightrulewidth=\dimen346
+\cmidrulewidth=\dimen347
+\belowrulesep=\dimen348
+\belowbottomsep=\dimen349
+\aboverulesep=\dimen350
+\abovetopsep=\dimen351
+\cmidrulesep=\dimen352
+\cmidrulekern=\dimen353
+\defaultaddspace=\dimen354
+\@cmidla=\count559
+\@cmidlb=\count560
+\@aboverulesep=\dimen355
+\@belowrulesep=\dimen356
+\@thisruleclass=\count561
+\@lastruleclass=\count562
+\@thisrulewidth=\dimen357
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ifsym/ifsym.sty
+Package: ifsym 2000/04/18 I.Kloeckl
+\c@ifsymcnt=\count563
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/contour/contour.sty
+Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
+\con@length=\skip166
+
+Loading configuration file `contour.cfg'.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/contour/contour.cfg
+File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
+)
+contour: Using driver file `dvips.cnt'.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/contour/dvips.cnt
+File: dvips.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box161
+)
+\tc@llx=\dimen358
+\tc@lly=\dimen359
+\tc@urx=\dimen360
+\tc@ury=\dimen361
+Package trimclip Info: Using driver 'tc-luatex.def'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-luatex.def
+File: tc-luatex.def 2025/02/26 v1.1 Clipping driver for luatex
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+)))
+\adjbox@Width=\dimen362
+\adjbox@Height=\dimen363
+\adjbox@Depth=\dimen364
+\adjbox@Totalheight=\dimen365
+\adjbox@pwidth=\dimen366
+\adjbox@pheight=\dimen367
+\adjbox@pdepth=\dimen368
+\adjbox@ptotalheight=\dimen369
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count564
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box162
+\sift@deathcycles=\count565
+\@vwid@loff=\dimen370
+\@vwid@roff=\dimen371
+)
+==> First Aid for varwidth.sty applied!
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count566
+\l__lipsum_a_int=\count567
+\l__lipsum_b_int=\count568
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip167
+\afterepigraphskip=\skip168
+\epigraphwidth=\skip169
+\epigraphrule=\skip170
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count569
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count570
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count571
+\c@listtotal=\count572
+\c@listcount=\count573
+\c@liststart=\count574
+\c@liststop=\count575
+\c@citecount=\count576
+\c@citetotal=\count577
+\c@multicitecount=\count578
+\c@multicitetotal=\count579
+\c@instcount=\count580
+\c@maxnames=\count581
+\c@minnames=\count582
+\c@maxitems=\count583
+\c@minitems=\count584
+\c@citecounter=\count585
+\c@maxcitecounter=\count586
+\c@savedcitecounter=\count587
+\c@uniquelist=\count588
+\c@uniquename=\count589
+\c@refsection=\count590
+\c@refsegment=\count591
+\c@maxextratitle=\count592
+\c@maxextratitleyear=\count593
+\c@maxextraname=\count594
+\c@maxextradate=\count595
+\c@maxextraalpha=\count596
+\c@abbrvpenalty=\count597
+\c@highnamepenalty=\count598
+\c@lownamepenalty=\count599
+\c@maxparens=\count600
+\c@parenlevel=\count601
+\blx@tempcnta=\count602
+\blx@tempcntb=\count603
+\blx@tempcntc=\count604
+\c@blx@maxsection=\count605
+\blx@maxsegment@0=\count606
+\blx@notetype=\count607
+\blx@parenlevel@text=\count608
+\blx@parenlevel@foot=\count609
+\blx@sectionciteorder@0=\count610
+\blx@sectionciteorderinternal@0=\count611
+\blx@entrysetcounter=\count612
+\blx@biblioinstance=\count613
+\labelnumberwidth=\skip171
+\labelalphawidth=\skip172
+\biblabelsep=\skip173
+\bibitemsep=\skip174
+\bibnamesep=\skip175
+\bibinitsep=\skip176
+\bibparsep=\skip177
+\bibhang=\skip178
+\blx@bcfin=\read6
+\blx@bcfout=\write5
+\blx@langwohyphens=\language3
+\c@mincomprange=\count614
+\c@maxcomprange=\count615
+\c@mincompwidth=\count616
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count617
+\c@savedafterword=\count618
+\c@annotator=\count619
+\c@savedannotator=\count620
+\c@author=\count621
+\c@savedauthor=\count622
+\c@bookauthor=\count623
+\c@savedbookauthor=\count624
+\c@commentator=\count625
+\c@savedcommentator=\count626
+\c@editor=\count627
+\c@savededitor=\count628
+\c@editora=\count629
+\c@savededitora=\count630
+\c@editorb=\count631
+\c@savededitorb=\count632
+\c@editorc=\count633
+\c@savededitorc=\count634
+\c@foreword=\count635
+\c@savedforeword=\count636
+\c@holder=\count637
+\c@savedholder=\count638
+\c@introduction=\count639
+\c@savedintroduction=\count640
+\c@namea=\count641
+\c@savednamea=\count642
+\c@nameb=\count643
+\c@savednameb=\count644
+\c@namec=\count645
+\c@savednamec=\count646
+\c@translator=\count647
+\c@savedtranslator=\count648
+\c@shortauthor=\count649
+\c@savedshortauthor=\count650
+\c@shorteditor=\count651
+\c@savedshorteditor=\count652
+\c@labelname=\count653
+\c@savedlabelname=\count654
+\c@institution=\count655
+\c@savedinstitution=\count656
+\c@lista=\count657
+\c@savedlista=\count658
+\c@listb=\count659
+\c@savedlistb=\count660
+\c@listc=\count661
+\c@savedlistc=\count662
+\c@listd=\count663
+\c@savedlistd=\count664
+\c@liste=\count665
+\c@savedliste=\count666
+\c@listf=\count667
+\c@savedlistf=\count668
+\c@location=\count669
+\c@savedlocation=\count670
+\c@organization=\count671
+\c@savedorganization=\count672
+\c@origlocation=\count673
+\c@savedoriglocation=\count674
+\c@origpublisher=\count675
+\c@savedorigpublisher=\count676
+\c@publisher=\count677
+\c@savedpublisher=\count678
+\c@language=\count679
+\c@savedlanguage=\count680
+\c@origlanguage=\count681
+\c@savedoriglanguage=\count682
+\c@pageref=\count683
+\c@savedpageref=\count684
+\shorthandwidth=\skip179
+\shortjournalwidth=\skip180
+\shortserieswidth=\skip181
+\shorttitlewidth=\skip182
+\shortauthorwidth=\skip183
+\shorteditorwidth=\skip184
+\locallabelnumberwidth=\skip185
+\locallabelalphawidth=\skip186
+\localshorthandwidth=\skip187
+\localshortjournalwidth=\skip188
+\localshortserieswidth=\skip189
+\localshorttitlewidth=\skip190
+\localshortauthorwidth=\skip191
+\localshorteditorwidth=\skip192
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count685
+\c@textcitetotal=\count686
+\c@textcitemaxnames=\count687
+\c@biburlbigbreakpenalty=\count688
+\c@biburlbreakpenalty=\count689
+\c@biburlnumpenalty=\count690
+\c@biburlucpenalty=\count691
+\c@biburllcpenalty=\count692
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count693
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count694
+\c@bbx:relatedtotal=\count695
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-05-26 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip193
+\f@nch@offset@elh=\skip194
+\f@nch@offset@erh=\skip195
+\f@nch@offset@olh=\skip196
+\f@nch@offset@orh=\skip197
+\f@nch@offset@elf=\skip198
+\f@nch@offset@erf=\skip199
+\f@nch@offset@olf=\skip256
+\f@nch@offset@orf=\skip257
+\f@nch@height=\skip258
+\f@nch@footalignment=\skip259
+\f@nch@widthL=\skip260
+\f@nch@widthC=\skip261
+\f@nch@widthR=\skip262
+\@temptokenb=\toks85
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen372
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count696
+\Gm@cntv=\count697
+\c@Gm@tempcnt=\count698
+\Gm@bindingoffset=\dimen373
+\Gm@wd@mp=\dimen374
+\Gm@odd@mp=\dimen375
+\Gm@even@mp=\dimen376
+\Gm@layoutwidth=\dimen377
+\Gm@layoutheight=\dimen378
+\Gm@layouthoffset=\dimen379
+\Gm@layoutvoffset=\dimen380
+\Gm@dimlist=\toks86
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip263
+\enit@outerparindent=\dimen381
+\enit@toks=\toks87
+\enit@inbox=\box163
+\enit@count@id=\count699
+\enitdp@description=\count700
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip264
+\cftbeforetoctitleskip=\skip265
+\cftaftertoctitleskip=\skip266
+\cftbeforepartskip=\skip267
+\cftpartnumwidth=\skip268
+\cftpartindent=\skip269
+\cftbeforechapskip=\skip270
+\cftchapindent=\skip271
+\cftchapnumwidth=\skip272
+\cftbeforesecskip=\skip273
+\cftsecindent=\skip274
+\cftsecnumwidth=\skip275
+\cftbeforesubsecskip=\skip276
+\cftsubsecindent=\skip277
+\cftsubsecnumwidth=\skip278
+\cftbeforesubsubsecskip=\skip279
+\cftsubsubsecindent=\skip280
+\cftsubsubsecnumwidth=\skip281
+\cftbeforeparaskip=\skip282
+\cftparaindent=\skip283
+\cftparanumwidth=\skip284
+\cftbeforesubparaskip=\skip285
+\cftsubparaindent=\skip286
+\cftsubparanumwidth=\skip287
+\cftbeforeloftitleskip=\skip288
+\cftafterloftitleskip=\skip289
+\cftbeforefigskip=\skip290
+\cftfigindent=\skip291
+\cftfignumwidth=\skip292
+\c@lofdepth=\count701
+\c@lotdepth=\count702
+\cftbeforelottitleskip=\skip293
+\cftafterlottitleskip=\skip294
+\cftbeforetabskip=\skip295
+\cfttabindent=\skip296
+\cfttabnumwidth=\skip297
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+\output_book_solutions_Stadtgeografie@idxfile=\write6
+
+\openout6 = output_book_solutions_Stadtgeografie.idx
+
+Writing index file output_book_solutions_Stadtgeografie.idx
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+Package cleveref Info: `algorithmicx' support loaded on input line 3120.
+Package cleveref Info: `listings' support loaded on input line 3131.
+Package cleveref Info: `aliascnt' support loaded on input line 3193.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+25.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7836.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7852.
+Package cleveref Info: no abbreviation of names on input line 7852.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+52.
+)
+==> First Aid for cleveref.sty applied!
+(/usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoc/etoc.sty
+Package: etoc 2023/10/29 v1.2d Completely customisable TOCs (JFB)
+\Etoc@toctoks=\toks88
+\c@etoc@tocid=\count703
+\etoc@framed@titlebox=\box164
+\etoc@framed@contentsbox=\box165
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/05/19 v2.6i Tabular extension package (FMi)
+\col@sep=\dimen382
+\ar@mcellbox=\box166
+\extrarowheight=\dimen383
+\NC@list=\toks89
+\extratabsurround=\skip298
+\backup@length=\skip299
+\ar@cellbox=\box167
+)
+\rotheadsize=\dimen384
+\c@nlinenum=\count704
+\TeXr@lab=\toks90
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2025/05/14 v4.7 (NLCT)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2025/04/03 v2.09 (NLCT)
+\@glsmfirst=\toks91
+\@glsmrest=\toks92
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tracklang/tracklang.tex)
+Package tracklang Info: Tracking dialect `germanDE' (language `german') on inpu
+t line 264.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries-german/glossaries-germ
+an.ldf
+File: glossaries-german.ldf 2014/11/23 v1.0
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/datatool/datatool-lua.def
+File: datatool-lua.def 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@toks=\toks93
+\@dtl@tmpcount=\count705
+\dtl@tmplength=\skip300
+\l__datatool_measure_box=\box168
+\dtl@sortresult=\count706
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/datatool/datatool-utf8.ldf
+File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@datatype=\count707
+\l__datatool_tmpa_int=\count708
+\l__datatool_tmpb_int=\count709
+\l__datatool_tmpc_int=\count710
+\l__datatool_tmpd_int=\count711
+\l__datatool_count_int=\count712
+\l__datatool_tmp_datatype_int=\count713
+\l__datatool_tmpa_dim=\dimen385
+\l__datatool_tmpb_dim=\dimen386
+\c_datatool_unknown_int=\count714
+\l__datatool_year_int=\count715
+\l__datatool_month_int=\count716
+\l__datatool_day_int=\count717
+\l__datatool_hour_int=\count718
+\l__datatool_minute_int=\count719
+\l__datatool_second_int=\count720
+\l__datatool_tzhour_int=\count721
+\l__datatool_tzminute_int=\count722
+\l__datatool_julian_int=\count723
+\l__datatool_local_julian_int=\count724
+\l__datatool_prefix_int=\count725
+\l__datatool_suffix_int=\count726
+\@dtl@foreach@level=\count727
+
+
+Package tracklang Warning: No `datatool' support for dialect `germanDE'  on inp
+ut line 9908.
+
+
+Package tracklang Warning: No `datatool' support for dialect `germanDE'  on inp
+ut line 9908.
+
+\dtl@codeA=\count728
+\dtl@codeB=\count729
+)
+\gls@level=\count730
+\@gls@tmpb=\toks94
+\gls@tmplen=\skip301
+\l__glossaries_tmpa_dim=\dimen387
+\l__glossaries_tmpb_dim=\dimen388
+\glskeylisttok=\toks95
+\glslabeltok=\toks96
+\glsshorttok=\toks97
+\glslongtok=\toks98
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
+av.sty
+Package: glossary-hypernav 2025/05/14 v4.7 (NLCT)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
+ty
+Package: glossary-list 2025/05/14 v4.7 (NLCT)
+\glslistdottedwidth=\skip302
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
+ty
+Package: glossary-long 2025/05/14 v4.7 (NLCT)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip303
+\LTright=\skip304
+\LTpre=\skip305
+\LTpost=\skip306
+\LTchunksize=\count731
+\LTcapwidth=\dimen389
+\LT@head=\box169
+\LT@firsthead=\box170
+\LT@foot=\box171
+\LT@lastfoot=\box172
+\LT@gbox=\box173
+\LT@cols=\count732
+\LT@rows=\count733
+\c@LT@tables=\count734
+\c@LT@chunks=\count735
+\LT@p@ftn=\toks99
+)
+\glsdescwidth=\skip307
+\glspagelistwidth=\skip308
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-super.
+sty
+Package: glossary-super 2025/05/14 v4.7 (NLCT)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2024/07/20 v4.2c the supertabular environment
+\c@tracingst=\count736
+\ST@wd=\dimen390
+\ST@rightskip=\skip309
+\ST@leftskip=\skip310
+\ST@parfillskip=\skip311
+\ST@pageleft=\dimen391
+\ST@headht=\dimen392
+\ST@tailht=\dimen393
+\ST@pagesofar=\dimen394
+\ST@pboxht=\dimen395
+\ST@rowht=\dimen396
+\ST@prevht=\dimen397
+\ST@toadd=\dimen398
+\ST@dimen=\dimen399
+\ST@pbox=\box174
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
+ty
+Package: glossary-tree 2025/05/14 v4.7 (NLCT)
+\l__glossaries_tree_max_known_level_int=\count737
+\l__glossaries_tree_offset_dim=\dimen400
+\l__glossaries_tree_namewidth_dim=\dimen401
+\l__glossaries_tree_symbolwidth_dim=\dimen402
+\l__glossaries_tree_prenamesym_width_dim=\dimen403
+\l__glossaries_tree_presubnamesym_width_dim=\dimen404
+\l__glossaries_tree_namewidth_padding_dim=\dimen405
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen406
+\l__glossaries_tree_namesymbolwidth_dim=\dimen407
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen408
+\l__glossaries_tree_level_int=\count738
+\glstreeindent=\skip312
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2025/05/20 version 6.5.0 text color boxes
+\tcb@titlebox=\box175
+\tcb@upperbox=\box176
+\tcb@lowerbox=\box177
+\tcb@phantombox=\box178
+\c@tcbbreakpart=\count739
+\c@tcblayer=\count740
+\c@tcolorbox@number=\count741
+\l__tcobox_tmpa_box=\box179
+\l__tcobox_tmpa_dim=\dimen409
+\tcb@temp=\box180
+\tcb@temp=\box181
+\tcb@temp=\box182
+\tcb@temp=\box183
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.5.0'
+\c@tcbrastercolumn=\count742
+\c@tcbrasterrow=\count743
+\c@tcbrasternum=\count744
+\c@tcbraster=\count745
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.5.0'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.co
+de.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box184
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.5.0'
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.5.0'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box185
+\tcb@totalupperbox=\box186
+\tcb@totallowerbox=\box187
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.5.0'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.5.0'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.5.0'
+\tcbfitdim=\dimen410
+\tcb@lowerfitdim=\dimen411
+\tcb@upperfitdim=\dimen412
+\tcb@cur@hbadness=\count746
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.te
+x
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.5.0'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.5.0'
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.te
+x
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.5.0'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.5.0'
+)
+\c@tcblisting=\count747
+))
+Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
+Library `listings` is loaded instead. on input line 29.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.5.0'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.5.0'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.5.0'
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.5.0'
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/menukeys/menukeys.sty
+Package: menukeys 2022/07/01 v1.6.2 -- A package to format menus, paths and sho
+rtcuts
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\l__twmk_indris_int=\count748
+\c@tw@hyphen@char@num=\count749
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lstaddons/lstautogobble.sty
+Package: lstautogobble 2012/05/03 v0.1 Implements 'autogobble' option for 'list
+ings'
+\lstag@spacecount=\count750
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+\everycr=\toks100
+\minrowclearance=\skip313
+\rownum=\count751
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+\c@qr@i=\count752
+\c@qr@j=\count753
+\qr@a=\count754
+\qr@b=\count755
+\qr@c=\count756
+\qr@for@depth=\count757
+\qr@for@maxdepth=\count758
+\qr@for@start=\count759
+\qr@for@end=\count760
+\qr@for@step=\count761
+\qr@newforcount=\count762
+\qr@newforcount=\count763
+\qr@desiredheight=\skip314
+\qr@modulesize=\skip315
+\qr@minipagewidth=\skip316
+\c@maski=\count764
+\c@maskj=\count765
+\c@totalones=\count766
+\c@penaltyi=\count767
+\c@penaltyii=\count768
+\c@penaltyiii=\count769
+\c@penaltyiv=\count770
+\c@qr@hexchars=\count771
+\qr@newforcount=\count772
+\c@qr@divisionsremaining=\count773
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip317
+\multirow@cntb=\count774
+\multirow@dima=\skip318
+\bigstrutjot=\dimen413
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
+lper.sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
+e5
+
+(/usr/local/texlive/2025/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/local/texlive/2025/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count775
+)
+\CatcodeTableOther=\catcodetable15
+\CatcodeTableExpl=\catcodetable16
+)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
+nput line 69.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd
+)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
+ input line 70.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.
+fd))) (/usr/local/texlive/2025/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: luatex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-luatex.def on input line 114.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/p2e-luatex.def
+File: p2e-luatex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks101
+\@arclen=\dimen414
+\@arcrad=\dimen415
+\pIIe@tempdima=\dimen416
+\pIIe@tempdimb=\dimen417
+\pIIe@tempdimc=\dimen418
+\pIIe@tempdimd=\dimen419
+\pIIe@tempdime=\dimen420
+\pIIe@tempdimf=\dimen421
+)
+\diagbox@boxa=\box188
+\diagbox@boxb=\box189
+\diagbox@boxm=\box190
+\diagbox@wd=\dimen422
+\diagbox@ht=\dimen423
+\diagbox@insepl=\dimen424
+\diagbox@insepr=\dimen425
+\diagbox@outsepl=\dimen426
+\diagbox@outsepr=\dimen427
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box191
+\UL@hyphenbox=\box192
+\UL@skip=\skip319
+\UL@hook=\toks102
+\UL@height=\dimen428
+\UL@pe=\count776
+\UL@pixel=\dimen429
+\ULC@box=\box193
+Package: ulem 2019/11/18
+\ULdepth=\dimen430
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/transparent/transparent-nometadat
+a.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
+ stack (HO)
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks103
+\AP@partial=\box194
+\AP@footins=\box195
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count777
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 2024/07/07 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count778
+\cp@tempcnt=\count779
+LaTeX Info: Redefining \checkoddpage on input line 59.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
+Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)))
+(./Preambles/pre_1_options.tex) (./Preambles/pre_2_macros.tex)
+(./Preambles/pre_3_tikz.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+spaced.code.tex
+File: pgflibraryarrows.spaced.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.co
+de.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineart
+ransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen431
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvili
+near.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen432
+\pgf@curvilinear@length@a=\dimen433
+\pgf@curvilinear@length@b=\dimen434
+\pgf@curvilinear@length@c=\dimen435
+\pgf@curvilinear@length@d=\dimen436
+)
+\pgf@arrows@the@rigidity=\dimen437
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hobby/tikzlibraryhobby.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hobby/pgflibraryhobby.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hobby/hobby.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hobby/pml3array.sty
+\l_array_base_int=\count780
+\l_array_top_int=\count781
+\l_array_tmp_int=\count782
+\g_array_map_int=\count783
+\g_array_base_int=\count784
+)
+\g__hobby_npoints_int=\count785
+\g__hobby_draw_int=\count786
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
+s.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.meta.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
+s.meta.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.gates.logic.US.code.tex
+File: tikzlibraryshapes.gates.logic.US.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/p
+gflibraryshapes.gates.logic.US.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/p
+gflibraryshapes.gates.logic.code.tex)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.gates.logic.IEC.code.tex
+File: tikzlibraryshapes.gates.logic.IEC.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/p
+gflibraryshapes.gates.logic.IEC.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.logic.US.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.logic.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.code.tex
+\tikz@lib@circ@count=\count787
+\tikzcircuitssizeunit=\dimen438
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.logic.IEC.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.logic.CDH.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.ee.IEC.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/circuits/tikzlibrarycircuits.ee.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/p
+gflibraryshapes.gates.ee.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/p
+gflibraryshapes.gates.ee.IEC.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/datavisualization/tikzlibrarydatavisualization.code.tex
+File: tikzlibrarydatavisualization.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisual
+ization.code.tex
+File: pgfmoduledatavisualization.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.te
+x
+\pgfoo@objectcount=\count788
+\pgfoothis@count=\count789
+\pgfoo@toks=\toks104
+)
+\pgf@lib@dv@cache@count=\count790
+\pgf@lib@dv@cache@count=\count791
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box196
+\pgf@layerboxsaved@background=\box197
+)
+\tikzdvvisualizercounter=\count792
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/datavisualization/tikzlibrarydatavisualization.polar.code.tex
+File: tikzlibrarydatavisualization.polar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/datavisualization
+/pgflibrarydatavisualization.polar.code.tex
+File: pgflibrarydatavisualization.polar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/datavisualization/tikzlibrarydatavisualization.formats.functions.code.tex
+File: tikzlibrarydatavisualization.formats.functions.code.tex 2023-01-15 v3.1.1
+0 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/datavisualization
+/pgflibrarydatavisualization.formats.functions.code.tex
+File: pgflibrarydatavisualization.formats.functions.code.tex 2023-01-15 v3.1.10
+ (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryer.code.tex
+File: tikzlibraryer.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypetri.code.tex
+File: tikzlibrarypetri.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalendar.code.tex
+File: tikzlibrarycalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.
+tex
+File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfcalendarcurrentjulian=\count793
+\pgf@cal@easter@Y=\count794
+\pgf@cal@easter@G=\count795
+\pgf@cal@easter@C=\count796
+\pgf@cal@easter@X=\count797
+\pgf@cal@easter@Z=\count798
+\pgf@cal@easter@D=\count799
+\pgf@cal@easter@E=\count800
+\pgf@cal@easter@N=\count801
+\pgf@cal@easter@M=\count802
+\pgf@cal@easter@julianday=\count803
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfolding.code.tex
+File: tikzlibraryfolding.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@fold@length=\dimen439
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadings.code.tex
+File: tikzlibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryshading
+s.code.tex
+File: pgflibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryspy.code.tex
+File: tikzlibraryspy.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@spybox=\box198
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarythrough.code.tex
+File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryturtle.code.tex
+File: tikzlibraryturtle.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.fractals.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.fractals.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.shapes.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.shapes.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.text.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box199
+)
+\tikz@lib@dec@te@box=\box256
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.footprints.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.footprints.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarylindenmayersystems.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibrarylindenm
+ayersystems.code.tex
+\pgflsystemstep=\dimen440
+\c@pgf@lsystem@iteration=\count804
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryintersections.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfixedpointarithmetic.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfixedpo
+intarithmetic.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfpu.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarysvg.path.code.tex
+File: tikzlibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibrarysvg.pat
+h.code.tex
+File: pgflibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleparser.cod
+e.tex
+File: pgfmoduleparser.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfparserdef@arg@count=\count805
+)
+\pgf@lib@svg@last@x=\dimen441
+\pgf@lib@svg@last@y=\dimen442
+\pgf@lib@svg@last@c@x=\dimen443
+\pgf@lib@svg@last@c@y=\dimen444
+\pgf@lib@svg@count=\count806
+\pgf@lib@svg@max@num=\count807
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzl
+ibraryexternal.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzexternalshared.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/graphs/tikzlibrarygraphs.code.tex
+File: tikzlibrarygraphs.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@auto@number=\count808
+\tikz@qnode@count=\count809
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/graphs/tikzlibrarygraphs.standard.code.tex
+File: tikzlibrarygraphs.standard.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymath.code.tex
+\tikz@math@for@depth=\count810
+\tikz@math@dimen=\dimen445
+\tikz@math@toks=\toks105
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryviews.code.tex
+File: tikzlibraryviews.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryanimations.code.tex
+File: tikzlibraryanimations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleanimations
+.code.tex
+File: pgfmoduleanimations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysanimation
+s.code.tex
+\pgfsysanim@snap@count=\count811
+\pgfsysanim@lasttime=\dimen446
+)
+\pgf@anim@dim=\dimen447
+)
+\tikz@anim@once@count=\count812
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryrdf.code.tex
+File: tikzlibraryrdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryperspective.code.tex
+File: tikzlibraryperspective.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzmark/tikzlibrarytikzmark.code
+.tex
+File: tikzlibrarytikzmark.code.tex 2022/08/24 v1.15 TikZ library for marking po
+sitions in a document
+\l__sn_x_dim=\dimen448
+\l__sn_y_dim=\dimen449
+\l__sn_xa_dim=\dimen450
+\l__sn_ya_dim=\dimen451
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikz-optics/tikzlibraryoptics.cod
+e.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/aobs-tikz/tikzlibraryoverlay-beam
+er-styles.code.tex)) (./Preambles/pre_4_custom_envs.tex
+\c@renumi=\count813
+\enitdp@renum=\count814
+\c@aenumi=\count815
+\enitdp@aenum=\count816
+\c@myexample=\count817
+\c@myremark=\count818
+\c@mydefinition=\count819
+\c@myaxiom=\count820
+\c@mytheorem=\count821
+\c@myproof=\count822
+\c@mysummary=\count823
+\c@myprocedure=\count824
+\c@myattention=\count825
+\c@myexcursion=\count826
+\c@myoverview=\count827
+\c@SharedCounter=\count828
+\c@DummyCounter=\count829
+)
+(./Preambles/pre_5_misc.tex
+\tmtapesize=\skip320
+\enitdp@todolist=\count830
+\c@FormCounter=\count831
+\c@row=\count832
+\c@col=\count833
+) (./Preambles/pre_6_glossaries.tex
+\glswrite=\write7
+\glo@main@file=\write8
+
+\openout8 = output_book_solutions_Stadtgeografie.glo
+Package glossaries Info: Writing glossary file output_book_solutions_Stadtgeogr
+afie.glo on input line 3.
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
+
+(/home/leetex/actions-runner/_work/LeeTeX/LeeTeX/PDFs/Stadtgeografie/book_solut
+ions//output_book_solutions_Stadtgeografie.aux
+
+LaTeX Warning: Label `t' multiply defined.
+
+
+LaTeX Warning: Label `t@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `s' multiply defined.
+
+
+LaTeX Warning: Label `s@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+
+LaTeX Warning: Label `f' multiply defined.
+
+
+LaTeX Warning: Label `f@cref' multiply defined.
+
+)
+\openout1 = output_book_solutions_Stadtgeografie.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+Package hyperref Info: Link coloring ON on input line 50.
+\c@lstlisting=\count834
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count835
+\scratchdimen=\dimen452
+\scratchbox=\box257
+\nofMPsegments=\count836
+\nofMParguments=\count837
+\everyMPshowfont=\toks106
+\MPscratchCnt=\count838
+\MPscratchDim=\dimen453
+\MPnumerator=\count839
+\makeMPintoPDFobject=\count840
+\everyMPtoPDFconversion=\toks107
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen454
+\caption@adjustwidth@linewidth=\dimen455
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+luaotfload | cache : Lookup cache loaded from /home/leetex/.texlive2025/texmf-va
+r/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoColorEmoji(0)' created for font 'Noto
+(fontspec)             Color Emoji' with options
+(fontspec)             [Renderer=Harfbuzz,BoldFont={},ItalicFont={},SmallCapsFo
+nt={},Renderer=HarfBuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Noto Color
+(fontspec)             Emoji:mode=harf;script=DFLT;language=dflt;"
+
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Module polyglossia Info: Language data for ngerman
+(polyglossia)            hyphenation	
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	loadhyph-de-1996.tex
+(polyglossia)            patterns	hyph-de-1996.pat.txt
+(polyglossia)            righthyphenmin	2
+(polyglossia)            synonyms	 on input line 581
+Module polyglossia Info: Language ngerman was not yet loaded; created with id 4 
+on input line 581
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+\openout5 = output_book_solutions_Stadtgeografie.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'output_book_solutions_Stadtgeografie.bbl' not 
+found.
+
+No file output_book_solutions_Stadtgeografie.bbl.
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(62.59605pt, 472.31577pt, 62.59605pt)
+* v-part:(T,H,B)=(71.13188pt, 688.5567pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=472.31577pt
+* \textheight=688.5567pt
+* \oddsidemargin=-9.67393pt
+* \evensidemargin=-9.67393pt
+* \topmargin=-33.0119pt
+* \headheight=26.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=39.83385pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Couldn't patch \deferred@thm@head!
+\Etoc@tf=\read7
+
+Package tablefootnote Warning: LuaTeX and hyperref package used:
+(tablefootnote)                Hyperreferences in rotated content
+(tablefootnote)                will be misplaced
+(tablefootnote)                regardless of tablefootnote package.
+(tablefootnote)                The text to be printed will be OK.
+
+<Logos/LeeLogo.pdf, id=43, 285.23564pt x 71.69786pt>
+File: Logos/LeeLogo.pdf Graphic file (type pdf)
+<use Logos/LeeLogo.pdf>
+Package luatex.def Info: Logos/LeeLogo.pdf  used on input line 124.
+(luatex.def)             Requested size: 236.15788pt x 59.3615pt.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+24.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+24.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+124.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+124.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 124.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 124.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 124.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 124
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 124
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1
+
+
+\openout7 = output_book_solutions_Stadtgeografie.ist
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Logos/L
+eeLogo.pdf><./luatex.SDsCVd/1.png><./luatex.SDsCVd/2.png><./luatex.SDsCVd/3.png>
+<./luatex.SDsCVd/4.png><./luatex.SDsCVd/5.png><./luatex.SDsCVd/6.png><./luatex.S
+DsCVd/7.png>]
+\tf@toc=\write9
+
+\openout9 = output_book_solutions_Stadtgeografie.toc
+
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
+[1]
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 124.
+
+
+[2] (./Geografie/Stadtgeografie/Skript/Skript.tex
+(./GrundlagenInfo/06_Datenbanken/Preface.tex)
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
+[1
+
+] ("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L01.tex"
+<Geografie/Stadtgeografie/Figures/surseePopulation.png, id=195, 798.94485pt x 3
+96.40096pt>
+File: Geografie/Stadtgeografie/Figures/surseePopulation.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/surseePopulation.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/surseePopulation.png 
+ used on input line 9.
+(luatex.def)             Requested size: 377.85405pt x 187.46979pt.
+
+
+
+
+
+
+
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
+[2
+
+<./Geografie/Stadtgeografie/Figures/surseePopulation.png><./luatex.SDsCVd/8.png>
+]
+<Geografie/Stadtgeografie/Figures/sempach.jpeg, id=208, 920.43875pt x 613.29124
+pt>
+File: Geografie/Stadtgeografie/Figures/sempach.jpeg Graphic file (type jpg)
+<use Geografie/Stadtgeografie/Figures/sempach.jpeg>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/sempach.jpeg  used on
+ input line 32.
+(luatex.def)             Requested size: 236.15788pt x 157.34639pt.
+<Geografie/Stadtgeografie/Figures/histBegriffTemplate.jpg, id=209, 766.719pt x 
+448.512pt>
+File: Geografie/Stadtgeografie/Figures/histBegriffTemplate.jpg Graphic file (ty
+pe jpg)
+<use Geografie/Stadtgeografie/Figures/histBegriffTemplate.jpg>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/histBegriffTemplate.j
+pg  used on input line 37.
+(luatex.def)             Requested size: 472.31577pt x 276.30203pt.
+
+
+LaTeX Warning: Citation 'hep' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'hep' on page 3 undefined on input line 38.
+
+
+
+
+
+
+
+
+
+[3<./Geografie/Stadtgeografie/Figures/sempach.jpeg><./Geografie/Stadtgeografie/F
+igures/histBegriffTemplate.jpg>]
+<Geografie/Stadtgeografie/Figures/funktionsraum.png, id=226, 965.6075pt x 277.0
+35pt>
+File: Geografie/Stadtgeografie/Figures/funktionsraum.png Graphic file (type png
+)
+<use Geografie/Stadtgeografie/Figures/funktionsraum.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/funktionsraum.png  us
+ed on input line 57.
+(luatex.def)             Requested size: 377.85405pt x 108.40675pt.
+
+
+
+
+
+
+<Geografie/Stadtgeografie/Figures/geoStadtbegriff.png, id=227, 350.30875pt x 47
+3.77pt>
+File: Geografie/Stadtgeografie/Figures/geoStadtbegriff.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/geoStadtbegriff.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/geoStadtbegriff.png  
+used on input line 83.
+(luatex.def)             Requested size: 217.47038pt x 294.11751pt.
+
+LaTeX Warning: Citation 'westermann' on page 4 undefined on input line 84.
+
+
+LaTeX Warning: Citation 'westermann' on page 4 undefined on input line 84.
+
+
+
+
+
+
+
+
+
+[4<./Geografie/Stadtgeografie/Figures/funktionsraum.png><./Geografie/Stadtgeogra
+fie/Figures/geoStadtbegriff.png>]
+<Geografie/Stadtgeografie/Figures/agglomeration.png, id=248, 1445.4pt x 1000.21
+68pt>
+File: Geografie/Stadtgeografie/Figures/agglomeration.png Graphic file (type png
+)
+<use Geografie/Stadtgeografie/Figures/agglomeration.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/agglomeration.png  us
+ed on input line 95.
+(luatex.def)             Requested size: 330.61958pt x 228.77827pt.
+
+
+[5<./Geografie/Stadtgeografie/Figures/agglomeration.png>]
+<Geografie/Stadtgeografie/Figures/gza.jpg, id=259, 596.2275pt x 411.5375pt>
+File: Geografie/Stadtgeografie/Figures/gza.jpg Graphic file (type jpg)
+<use Geografie/Stadtgeografie/Figures/gza.jpg>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/gza.jpg  used on inpu
+t line 108.
+(luatex.def)             Requested size: 217.47038pt x 150.10632pt.
+
+
+
+
+
+
+
+
+[6<./Geografie/Stadtgeografie/Figures/gza.jpg>]
+<Geografie/Stadtgeografie/Figures/megalopolis.png, id=267, 410.53375pt x 329.23
+pt>
+File: Geografie/Stadtgeografie/Figures/megalopolis.png Graphic file (type png)
+<use Geografie/Stadtgeografie/Figures/megalopolis.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/megalopolis.png  used
+ on input line 119.
+(luatex.def)             Requested size: 217.47038pt x 174.40063pt.
+
+
+
+
+
+
+
+Overfull \hbox (8.42368pt too wide) in paragraph at lines 138--139
+[]\TU/lmr/bx/n/10.95 Sta-tis-ti-sche De-fi-ni-ti-on\TU/lmr/m/n/10.95 : Ein-woh-n
+er-zahl, Ein-woh-ner-dich-te, so-wie an-de-re re-le-van-te Kenn-
+ []
+
+
+
+[7<./Geografie/Stadtgeografie/Figures/megalopolis.png>]
+<Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, id=280, 
+page=1, 483.69708pt x 682.86618pt>
+File: Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf Grap
+hic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, page
+ 1>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/Der geographische St
+adtbegriff.pdf , page1 used on input line 161.
+(luatex.def)             Requested size: 352.8156pt x 498.09221pt.
+<Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, id=281, 
+page=2, 483.69708pt x 682.86618pt>
+File: Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf Grap
+hic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, page
+ 2>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/Der geographische St
+adtbegriff.pdf , page2 used on input line 161.
+(luatex.def)             Requested size: 352.8156pt x 498.09221pt.
+<Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, id=282, 
+page=3, 483.69708pt x 682.86618pt>
+File: Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf Grap
+hic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf, page
+ 3>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/Der geographische St
+adtbegriff.pdf , page3 used on input line 161.
+(luatex.def)             Requested size: 352.8156pt x 498.09221pt.
+
+
+[8<./Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf>]
+
+[9<./Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf>]
+
+[10<./Geografie/Stadtgeografie/Appendix/Der geographische Stadtbegriff.pdf>])
+
+[11
+
+]
+Kapitel 1.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L02.tex"
+
+LaTeX Warning: Citation 'westermann' on page 12 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'westermann' on page 12 undefined on input line 15.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/lmr/m/n/10.95 Hy-drau-li-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\TU/lmr/m/n/10.95 Theo-lo-gi-sche
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 25--25
+[]|\TU/lmr/m/n/10.95 Exis-tenz ei-nes zen-tra-len,
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 25--25
+\TU/lmr/m/n/10.95 räum-lich fi-xier-ten Hei-lig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\TU/lmr/m/n/10.95 Öko-no-mi-sche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\TU/lmr/m/n/10.95 Kauf-manns-sied-lun-gen ent-lang
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 26--26
+\TU/lmr/m/n/10.95 gung, zum Ras-ten und zum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\TU/lmr/m/n/10.95 Mi-li-tä-ri-sche
+ []
+
+
+LaTeX Warning: Citation 'westermann' on page 12 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'westermann' on page 12 undefined on input line 29.
+
+
+
+[12
+
+<./luatex.SDsCVd/9.png><./luatex.SDsCVd/10.png><./luatex.SDsCVd/11.png><./luatex
+.SDsCVd/12.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 42.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 42.
+<Geografie/Stadtgeografie/Figures/grundrissMittelalter.png, id=407, 333.245pt x
+ 260.975pt>
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 46.
+(luatex.def)             Requested size: 71.12761pt x 71.1332pt.
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 60.
+(luatex.def)             Requested size: 71.12761pt x 71.1332pt.
+<Geografie/Stadtgeografie/Figures/grundrissAbsolut.png, id=408, 397.485pt x 281
+.05pt>
+File: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/grundrissAbsolut.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png 
+ used on input line 78.
+(luatex.def)             Requested size: 71.13177pt x 71.12859pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\TU/lmr/m/n/9 Re-si-denz (als geo-me-tri-scher
+ []
+
+<Geografie/Stadtgeografie/Figures/grundrissIndustrie.png, id=409, 403.5075pt x 
+264.99pt>
+File: Geografie/Stadtgeografie/Figures/grundrissIndustrie.png Graphic file (typ
+e png)
+<use Geografie/Stadtgeografie/Figures/grundrissIndustrie.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissIndustrie.pn
+g  used on input line 93.
+(luatex.def)             Requested size: 71.13205pt x 71.13177pt.
+<Geografie/Stadtgeografie/Figures/grundrissModern.png, id=410, 381.425pt x 271.
+0125pt>
+File: Geografie/Stadtgeografie/Figures/grundrissModern.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/grundrissModern.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissModern.png  
+used on input line 112.
+(luatex.def)             Requested size: 71.12706pt x 71.1315pt.
+
+
+[13]
+<Geografie/Stadtgeografie/Figures/grundrissRom.png, id=419, 230.8625pt x 216.81
+pt>
+File: Geografie/Stadtgeografie/Figures/grundrissRom.png Graphic file (type png)
+
+<use Geografie/Stadtgeografie/Figures/grundrissRom.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissRom.png  use
+d on input line 132.
+(luatex.def)             Requested size: 94.4617pt x 88.71071pt.
+<Geografie/Stadtgeografie/Figures/roemerKarte.png, id=420, 2509.375pt x 1593.95
+5pt>
+File: Geografie/Stadtgeografie/Figures/roemerKarte.png Graphic file (type png)
+<use Geografie/Stadtgeografie/Figures/roemerKarte.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/roemerKarte.png  used
+ on input line 136.
+(luatex.def)             Requested size: 472.31577pt x 300.00896pt.
+
+
+[14<./Geografie/Stadtgeografie/Figures/grundrissMittelalter.png><./Geografie/Sta
+dtgeografie/Figures/grundrissAbsolut.png><./Geografie/Stadtgeografie/Figures/gru
+ndrissIndustrie.png><./Geografie/Stadtgeografie/Figures/grundrissModern.png><./G
+eografie/Stadtgeografie/Figures/grundrissRom.png>]
+<Geografie/Stadtgeografie/Figures/augustaRaurica.png, id=435, 1067.99pt x 1507.
+6325pt>
+File: Geografie/Stadtgeografie/Figures/augustaRaurica.png Graphic file (type pn
+g)
+<use Geografie/Stadtgeografie/Figures/augustaRaurica.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/augustaRaurica.png  u
+sed on input line 146.
+(luatex.def)             Requested size: 138.69614pt x 195.76906pt.
+
+
+
+
+
+
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 154.
+(luatex.def)             Requested size: 94.4617pt x 73.97644pt.
+
+
+[15<./Geografie/Stadtgeografie/Figures/roemerKarte.png><./Geografie/Stadtgeograf
+ie/Figures/augustaRaurica.png>]
+File: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/grundrissAbsolut.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png 
+ used on input line 169.
+(luatex.def)             Requested size: 94.4617pt x 66.78865pt.
+File: Geografie/Stadtgeografie/Figures/grundrissIndustrie.png Graphic file (typ
+e png)
+<use Geografie/Stadtgeografie/Figures/grundrissIndustrie.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissIndustrie.pn
+g  used on input line 173.
+(luatex.def)             Requested size: 94.4617pt x 62.03409pt.
+
+
+[16]
+File: Geografie/Stadtgeografie/Figures/grundrissModern.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/grundrissModern.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissModern.png  
+used on input line 177.
+(luatex.def)             Requested size: 94.4617pt x 67.1161pt.
+
+
+[17]
+<Geografie/Stadtgeografie/Figures/EuropaeischeStadtModellLeer.jpg, id=460, 896.
+148pt x 395.295pt>
+File: Geografie/Stadtgeografie/Figures/EuropaeischeStadtModellLeer.jpg Graphic 
+file (type jpg)
+<use Geografie/Stadtgeografie/Figures/EuropaeischeStadtModellLeer.jpg>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/EuropaeischeStadtMode
+llLeer.jpg  used on input line 187.
+(luatex.def)             Requested size: 441.01782pt x 194.53464pt.
+<Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png, id=461, 883.3pt 
+x 382.42876pt>
+File: Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png Graphic file
+ (type png)
+<use Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/EuropaeischeStadtMode
+ll.png  used on input line 192.
+(luatex.def)             Requested size: 409.71988pt x 177.38988pt.
+
+
+[18<./Geografie/Stadtgeografie/Figures/EuropaeischeStadtModellLeer.jpg>]
+Overfull \hbox (1.07349pt too wide) in paragraph at lines 222--222
+[]|[]| 
+ []
+
+
+Overfull \hbox (22.57347pt too wide) in paragraph at lines 208--229
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\TU/lmr/bx/n/10.95 Stadt-ent-wick-lungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]|\TU/lmr/m/n/10.95 Am-phi-thea-ter, Thea-ter,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]|\TU/lmr/m/n/10.95 stern-för-mi-ge Fes-tungs-an-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\TU/lmr/m/n/10.95 Ba-rock-schloss, plan-mä-ßi-ge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+[]|\TU/lmr/m/n/10.95 Einzel- und Rei-hen-häu-ser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]|\TU/lmr/m/n/10.95 ras-ter-för-mi-ges Stra-ßen-netz,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+\TU/lmr/m/n/10.95 Block-rand-be-bau-ung, Stadt-
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 246--246
+[]|\TU/lmr/m/n/10.95 ver-win-kel-te Stra-ßen, star-ke
+ []
+
+
+
+[19<./Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png>]
+
+Package tcolorbox Warning: The upper box part has become overfull on input line
+ 253.
+
+
+
+[20]
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 265.
+(luatex.def)             Requested size: 71.12761pt x 71.1332pt.
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 279.
+(luatex.def)             Requested size: 71.12761pt x 71.1332pt.
+File: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/grundrissAbsolut.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png 
+ used on input line 296.
+(luatex.def)             Requested size: 71.13177pt x 71.12859pt.
+
+Underfull \hbox (badness 4144) in paragraph at lines 306--307
+[]\TU/lmr/m/n/9 Vaub-an-sche Fes-tungs-wer-ke (mit vie-len
+ []
+
+File: Geografie/Stadtgeografie/Figures/grundrissIndustrie.png Graphic file (typ
+e png)
+<use Geografie/Stadtgeografie/Figures/grundrissIndustrie.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissIndustrie.pn
+g  used on input line 311.
+(luatex.def)             Requested size: 71.13205pt x 71.13177pt.
+
+Underfull \hbox (badness 1215) in paragraph at lines 318--319
+[]\TU/lmr/m/n/9 Block-rand-be-bau-ung, Häu-ser gren-zen an
+ []
+
+File: Geografie/Stadtgeografie/Figures/grundrissModern.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/grundrissModern.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissModern.png  
+used on input line 327.
+(luatex.def)             Requested size: 71.12706pt x 71.1315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]\TU/lmr/m/n/9 hier-ar-chisch an-ge-leg-tes Stras-sen-netz:
+ []
+
+
+
+[21]
+
+! LaTeX Error: File `"Geografie/Stadtgeografie/Appendix/2022-04-16 Zürich 3D-
+Modell"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.346 ...Appendix/2022-04-16 Zürich 3D-Modell"}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+[22]
+
+[23])
+
+[24]
+Kapitel 2.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L03.tex"
+<Geografie/Stadtgeografie/Figures/urb-sub-etc-westermann.png, id=522, 890.32625
+pt x 359.3425pt>
+File: Geografie/Stadtgeografie/Figures/urb-sub-etc-westermann.png Graphic file 
+(type png)
+<use Geografie/Stadtgeografie/Figures/urb-sub-etc-westermann.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/urb-sub-etc-westerman
+n.png  used on input line 5.
+(luatex.def)             Requested size: 377.85405pt x 152.50195pt.
+<Geografie/Stadtgeografie/Figures/urb-sub-etc-hep.png, id=523, 740.7675pt x 378
+.41376pt>
+File: Geografie/Stadtgeografie/Figures/urb-sub-etc-hep.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/urb-sub-etc-hep.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/urb-sub-etc-hep.png  
+used on input line 6.
+(luatex.def)             Requested size: 377.85405pt x 193.0231pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 25 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'hep' on page 25 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'westermann' on page 25 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'hep' on page 25 undefined on input line 7.
+
+
+
+[25
+
+<./Geografie/Stadtgeografie/Figures/urb-sub-etc-westermann.png><./Geografie/Stad
+tgeografie/Figures/urb-sub-etc-hep.png>]
+File: Geografie/Stadtgeografie/Figures/grundrissRom.png Graphic file (type png)
+
+<use Geografie/Stadtgeografie/Figures/grundrissRom.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissRom.png  use
+d on input line 12.
+(luatex.def)             Requested size: 71.1298pt x 71.13068pt.
+File: Geografie/Stadtgeografie/Figures/grundrissMittelalter.png Graphic file (t
+ype png)
+<use Geografie/Stadtgeografie/Figures/grundrissMittelalter.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissMittelalter.
+png  used on input line 13.
+(luatex.def)             Requested size: 71.12761pt x 71.1332pt.
+File: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/grundrissAbsolut.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissAbsolut.png 
+ used on input line 14.
+(luatex.def)             Requested size: 71.13177pt x 71.12859pt.
+File: Geografie/Stadtgeografie/Figures/grundrissIndustrie.png Graphic file (typ
+e png)
+<use Geografie/Stadtgeografie/Figures/grundrissIndustrie.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissIndustrie.pn
+g  used on input line 18.
+(luatex.def)             Requested size: 71.13205pt x 71.13177pt.
+File: Geografie/Stadtgeografie/Figures/grundrissModern.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/grundrissModern.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/grundrissModern.png  
+used on input line 22.
+(luatex.def)             Requested size: 71.12706pt x 71.1315pt.
+<Geografie/Stadtgeografie/Figures/peri.png, id=531, 874.467pt x 510.2262pt>
+File: Geografie/Stadtgeografie/Figures/peri.png Graphic file (type png)
+<use Geografie/Stadtgeografie/Figures/peri.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/peri.png  used on inp
+ut line 25.
+(luatex.def)             Requested size: 472.31577pt x 275.5881pt.
+
+
+[26]
+
+[27<./Geografie/Stadtgeografie/Figures/peri.png>]
+<Geografie/Stadtgeografie/Figures/Reurbanisierung.png, id=547, 886.0302pt x 213
+.9192pt>
+File: Geografie/Stadtgeografie/Figures/Reurbanisierung.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/Reurbanisierung.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Reurbanisierung.png  
+used on input line 48.
+(luatex.def)             Requested size: 472.31577pt x 114.03598pt.
+
+
+[28<./Geografie/Stadtgeografie/Figures/Reurbanisierung.png>]
+<Geografie/Stadtgeografie/Figures/zeitstrahl.pdf, id=561, 930.47626pt x 257.963
+75pt>
+File: Geografie/Stadtgeografie/Figures/zeitstrahl.pdf Graphic file (type pdf)
+<use Geografie/Stadtgeografie/Figures/zeitstrahl.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/zeitstrahl.pdf  used 
+on input line 83.
+(luatex.def)             Requested size: 441.01782pt x 122.26637pt.
+<Geografie/Stadtgeografie/Figures/zeitstrahl-sol.pdf, id=562, 954.56625pt x 549
+.05125pt>
+File: Geografie/Stadtgeografie/Figures/zeitstrahl-sol.pdf Graphic file (type pd
+f)
+<use Geografie/Stadtgeografie/Figures/zeitstrahl-sol.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/zeitstrahl-sol.pdf  u
+sed on input line 89.
+(luatex.def)             Requested size: 409.71988pt x 235.66016pt.
+
+
+[29<./Geografie/Stadtgeografie/Figures/zeitstrahl.pdf>]
+<Geografie/Stadtgeografie/Appendix/2024-11-08 Erste Autobahn.pdf, id=582, 910.4
+8857pt x 990.82571pt>
+File: Geografie/Stadtgeografie/Appendix/2024-11-08 Erste Autobahn.pdf Graphic f
+ile (type pdf)
+<use Geografie/Stadtgeografie/Appendix/2024-11-08 Erste Autobahn.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/2024-11-08 Erste Aut
+obahn.pdf  used on input line 100.
+(luatex.def)             Requested size: 396.91335pt x 431.94307pt.
+
+
+[30<./Geografie/Stadtgeografie/Figures/zeitstrahl-sol.pdf>]
+
+LaTeX Warning: Citation 'geoaktiv' on page 31 undefined on input line 105.
+
+<Geografie/Stadtgeografie/Appendix/verstaedterung.png, id=614, 1841.88126pt x 2
+352.79pt>
+File: Geografie/Stadtgeografie/Appendix/verstaedterung.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Appendix/verstaedterung.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/verstaedterung.png  
+used on input line 106.
+(luatex.def)             Requested size: 441.01782pt x 563.31693pt.
+
+
+[31<./Geografie/Stadtgeografie/Appendix/2024-11-08 Erste Autobahn.pdf>]
+
+[32<./Geografie/Stadtgeografie/Appendix/verstaedterung.png>])
+
+[33]
+Kapitel 3.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L04.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\TU/lmr/m/n/10.95 Un-ter-stüt-zungs-netz-wer-ke (glei-che
+ []
+
+
+
+
+
+
+
+
+
+[34
+
+]
+<Geografie/Stadtgeografie/Figures/segregationLeer.png, id=859, 255.95625pt x 47
+3.77pt>
+File: Geografie/Stadtgeografie/Figures/segregationLeer.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/segregationLeer.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/segregationLeer.png  
+used on input line 49.
+(luatex.def)             Requested size: 76.85776pt x 142.26378pt.
+<Geografie/Stadtgeografie/Figures/segregation.png, id=860, 477.785pt x 473.77pt
+>
+File: Geografie/Stadtgeografie/Figures/segregation.png Graphic file (type png)
+<use Geografie/Stadtgeografie/Figures/segregation.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/segregation.png  used
+ on input line 54.
+(luatex.def)             Requested size: 143.46782pt x 142.26378pt.
+
+
+[35<./Geografie/Stadtgeografie/Figures/segregationLeer.png>]
+
+LaTeX Warning: Citation 'hep' on page 36 undefined on input line 64.
+
+
+
+[36<./Geografie/Stadtgeografie/Figures/segregation.png>]
+
+[37]
+
+[38]
+
+[39]
+<Geografie/Stadtgeografie/Figures/GentrificationPhasenLeer.pdf, id=912, 967.615
+pt x 532.99126pt>
+File: Geografie/Stadtgeografie/Figures/GentrificationPhasenLeer.pdf Graphic fil
+e (type pdf)
+<use Geografie/Stadtgeografie/Figures/GentrificationPhasenLeer.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/GentrificationPhasenL
+eer.pdf  used on input line 172.
+(luatex.def)             Requested size: 441.01782pt x 242.92618pt.
+
+
+LaTeX Warning: Citation 'dangschat' on page 40 undefined on input line 173.
+
+
+LaTeX Warning: Citation 'dangschat' on page 40 undefined on input line 173.
+
+<Geografie/Stadtgeografie/Figures/GentrificationPhasen.pdf, id=913, 967.615pt x
+ 532.99126pt>
+File: Geografie/Stadtgeografie/Figures/GentrificationPhasen.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Figures/GentrificationPhasen.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/GentrificationPhasen.
+pdf  used on input line 178.
+(luatex.def)             Requested size: 409.71988pt x 225.68468pt.
+
+LaTeX Warning: Citation 'dangschat' on page 40 undefined on input line 179.
+
+
+LaTeX Warning: Citation 'dangschat' on page 40 undefined on input line 179.
+
+
+
+[40<./Geografie/Stadtgeografie/Figures/GentrificationPhasenLeer.pdf>]
+<Geografie/Stadtgeografie/Figures/gentrifizierung.png, id=963, 964.0818pt x 355
+.5684pt>
+File: Geografie/Stadtgeografie/Figures/gentrifizierung.png Graphic file (type p
+ng)
+<use Geografie/Stadtgeografie/Figures/gentrifizierung.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/gentrifizierung.png  
+used on input line 187.
+(luatex.def)             Requested size: 264.61337pt x 97.59442pt.
+<Geografie/Stadtgeografie/Figures/gentrifizierungHaus.png, id=964, 780.516pt x 
+252.945pt>
+File: Geografie/Stadtgeografie/Figures/gentrifizierungHaus.png Graphic file (ty
+pe png)
+<use Geografie/Stadtgeografie/Figures/gentrifizierungHaus.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/gentrifizierungHaus.p
+ng  used on input line 188.
+(luatex.def)             Requested size: 264.61337pt x 85.75314pt.
+
+
+[41<./Geografie/Stadtgeografie/Figures/GentrificationPhasen.pdf>]
+
+[42<./Geografie/Stadtgeografie/Figures/gentrifizierung.png><./Geografie/Stadtgeo
+grafie/Figures/gentrifizierungHaus.png>]
+
+[43]
+Overfull \hbox (0.96504pt too wide) in paragraph at lines 237--238
+\TU/lmr/m/n/10.95 ren Aus-wir-kun-gen auf die spe-zi-fi-sche Be-völ-ke-rungs-gr
+up-pe hin-sicht-lich Stadt-Land-Bewegungen
+ []
+
+)
+
+[44]
+Kapitel 4.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L05.tex"
+File: Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png Graphic file
+ (type png)
+<use Geografie/Stadtgeografie/Figures/EuropaeischeStadtModell.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/EuropaeischeStadtMode
+ll.png  used on input line 17.
+(luatex.def)             Requested size: 425.0813pt x 184.0422pt.
+
+
+[45
+
+]
+
+LaTeX Warning: Citation 'hep' on page 46 undefined on input line 29.
+
+
+
+[46]
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1071, page=5, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 5>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page5 used on input line 61.
+(luatex.def)             Requested size: 472.31577pt x 617.55835pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 47 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'westermann' on page 47 undefined on input line 61.
+
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1073, page=6, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 6>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page6 used on input line 61.
+(luatex.def)             Requested size: 472.31577pt x 617.55835pt.
+
+LaTeX Warning: Citation 'westermann' on page 47 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'westermann' on page 47 undefined on input line 61.
+
+
+
+[47]
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1093, page=7, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 7>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page7 used on input line 61.
+(luatex.def)             Requested size: 472.31577pt x 617.55835pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 48 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'westermann' on page 48 undefined on input line 61.
+
+
+
+[48<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1108, page=8, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 8>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page8 used on input line 61.
+(luatex.def)             Requested size: 472.31577pt x 503.61127pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 49 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'westermann' on page 49 undefined on input line 61.
+
+
+
+[49<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+
+[50<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+
+[51<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1140, page=1, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 1>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page1 used on input line 93.
+(luatex.def)             Requested size: 472.31577pt x 590.97081pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 52 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'westermann' on page 52 undefined on input line 94.
+
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1142, page=2, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 2>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page2 used on input line 98.
+(luatex.def)             Requested size: 472.31577pt x 560.5848pt.
+
+LaTeX Warning: Citation 'westermann' on page 52 undefined on input line 99.
+
+
+LaTeX Warning: Citation 'westermann' on page 52 undefined on input line 99.
+
+
+
+[52]
+
+[53<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+<Geografie/Stadtgeografie/Figures/Orient-Stadt/fes.png, id=1177, 2055.68pt x 81
+5.045pt>
+File: Geografie/Stadtgeografie/Figures/Orient-Stadt/fes.png Graphic file (type 
+png)
+<use Geografie/Stadtgeografie/Figures/Orient-Stadt/fes.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Orient-Stadt/fes.png 
+ used on input line 104.
+(luatex.def)             Requested size: 377.85405pt x 149.8109pt.
+<Geografie/Stadtgeografie/Figures/Orient-Stadt/koranschule-fes.png, id=1178, 20
+55.68pt x 1370.11874pt>
+File: Geografie/Stadtgeografie/Figures/Orient-Stadt/koranschule-fes.png Graphic
+ file (type png)
+<use Geografie/Stadtgeografie/Figures/Orient-Stadt/koranschule-fes.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Orient-Stadt/koransch
+ule-fes.png  used on input line 105.
+(luatex.def)             Requested size: 188.92342pt x 125.89774pt.
+<Geografie/Stadtgeografie/Figures/Orient-Stadt/riad-rabat.png, id=1179, 2055.68
+pt x 1370.11874pt>
+File: Geografie/Stadtgeografie/Figures/Orient-Stadt/riad-rabat.png Graphic file
+ (type png)
+<use Geografie/Stadtgeografie/Figures/Orient-Stadt/riad-rabat.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Orient-Stadt/riad-rab
+at.png  used on input line 106.
+(luatex.def)             Requested size: 188.92342pt x 125.89774pt.
+<Geografie/Stadtgeografie/Figures/Orient-Stadt/stadttor-fes-2.png, id=1180, 205
+5.68pt x 1370.11874pt>
+File: Geografie/Stadtgeografie/Figures/Orient-Stadt/stadttor-fes-2.png Graphic 
+file (type png)
+<use Geografie/Stadtgeografie/Figures/Orient-Stadt/stadttor-fes-2.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Orient-Stadt/stadttor
+-fes-2.png  used on input line 107.
+(luatex.def)             Requested size: 188.92342pt x 125.89774pt.
+<Geografie/Stadtgeografie/Figures/Orient-Stadt/strasse-rabat.png, id=1181, 1003
+.75pt x 669.50125pt>
+File: Geografie/Stadtgeografie/Figures/Orient-Stadt/strasse-rabat.png Graphic f
+ile (type png)
+<use Geografie/Stadtgeografie/Figures/Orient-Stadt/strasse-rabat.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Orient-Stadt/strasse-
+rabat.png  used on input line 108.
+(luatex.def)             Requested size: 188.92342pt x 126.0113pt.
+
+
+[54<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+
+[55<./Geografie/Stadtgeografie/Figures/Orient-Stadt/fes.png><./Geografie/Stadtge
+ografie/Figures/Orient-Stadt/koranschule-fes.png><./Geografie/Stadtgeografie/Fig
+ures/Orient-Stadt/riad-rabat.png><./Geografie/Stadtgeografie/Figures/Orient-Stad
+t/stadttor-fes-2.png><./Geografie/Stadtgeografie/Figures/Orient-Stadt/strasse-ra
+bat.png>]
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1219, page=3, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 3>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page3 used on input line 145.
+(luatex.def)             Requested size: 472.31577pt x 617.55835pt.
+
+
+LaTeX Warning: Citation 'westermann' on page 56 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'westermann' on page 56 undefined on input line 146.
+
+<Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, id=1221, page=4, 41
+0.7345pt x 562.20038pt>
+File: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf Graphic file (t
+ype pdf)
+<use Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf, page 4>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.
+pdf , page4 used on input line 150.
+(luatex.def)             Requested size: 425.0813pt x 504.51733pt.
+
+LaTeX Warning: Citation 'westermann' on page 56 undefined on input line 151.
+
+
+LaTeX Warning: Citation 'westermann' on page 56 undefined on input line 151.
+
+
+
+[56]
+
+[57<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+
+[58<./Geografie/Stadtgeografie/Appendix/stadtmodelleDiercke.pdf>]
+
+[59]
+Overfull \hbox (0.34572pt too wide) in paragraph at lines 184--185
+\TU/lmr/m/n/10.95 hand ei-nes räum-li-chen Mo-dells be-schrei-ben, in-dem ich 
+die fol-gen-den Be-grif-fe ver-wen-de: \TU/lmr/m/it/10.95 Schach-
+ []
+
+)
+
+[60]
+Kapitel 5.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L06.tex"
+<Geografie/Stadtgeografie/Appendix/2021-11-11 Lob auf Wolkenkratzer.pdf, id=127
+8, 910.48819pt x 1337.27951pt>
+File: Geografie/Stadtgeografie/Appendix/2021-11-11 Lob auf Wolkenkratzer.pdf Gr
+aphic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/2021-11-11 Lob auf Wolkenkratzer.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/2021-11-11 Lob auf W
+olkenkratzer.pdf  used on input line 32.
+(luatex.def)             Requested size: 396.91335pt x 396.91185pt.
+
+
+[61
+
+]
+<Geografie/Stadtgeografie/Appendix/2024-11-25 Hochhäuser Zürich.pdf, id=1294,
+ 910.48819pt x 1337.27951pt>
+File: Geografie/Stadtgeografie/Appendix/2024-11-25 Hochhäuser Zürich.pdf Grap
+hic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/2024-11-25 Hochhäuser Zürich.pdf>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/2024-11-25 Hochhäus
+er Zürich.pdf  used on input line 40.
+(luatex.def)             Requested size: 396.91335pt x 383.68146pt.
+
+
+[62<./Geografie/Stadtgeografie/Appendix/2021-11-11 Lob auf Wolkenkratzer.pdf>]
+<Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich.pdf
+, id=1367, page=1, 583.27913pt x 796.67638pt>
+File: Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Züric
+h.pdf Graphic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich
+.pdf, page 1>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio
+ Hochhäuser Zürich.pdf , page1 used on input line 51.
+(luatex.def)             Requested size: 396.91335pt x 542.14609pt.
+<Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich.pdf
+, id=1368, page=2, 583.27913pt x 796.67638pt>
+File: Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Züric
+h.pdf Graphic file (type pdf)
+<use Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich
+.pdf, page 2>
+Package luatex.def Info: Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio
+ Hochhäuser Zürich.pdf , page2 used on input line 51.
+(luatex.def)             Requested size: 396.91335pt x 542.14609pt.
+
+
+[63<./Geografie/Stadtgeografie/Appendix/2024-11-25 Hochhäuser Zürich.pdf>]
+
+[64<./Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich
+.pdf>]
+
+[65<./Geografie/Stadtgeografie/Appendix/2023-09-04 NZZ Folio Hochhäuser Zürich
+.pdf>])
+
+[66]
+Kapitel 6.
+("./Geografie/Stadtgeografie/Skript/Skript_Stadtgeografie L07.tex"
+
+LaTeX Warning: Reference `fig:gartenstadt' on page 1 undefined on input line 38
+.
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-1.png, id=1558, 600.
+2425pt x 414.54875pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-1.png Graphic f
+ile (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-1.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenst
+adt-1.png  used on input line 44.
+(luatex.def)             Requested size: 216.10115pt x 149.24376pt.
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 45.
+
+! Bad space factor (0).
+<recently read> \@savsf 
+                        
+l.46 \label{fig:gartenstadt-1}
+                              
+I allow only values in the range 1..32767 here.
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-2.png, id=1559, 576.
+1525pt x 402.50375pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-2.png Graphic f
+ile (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-2.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenst
+adt-2.png  used on input line 50.
+(luatex.def)             Requested size: 216.10115pt x 150.96924pt.
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 51.
+
+! Bad space factor (0).
+<recently read> \@savsf 
+                        
+l.52 \label{fig:gartenstadt-2}
+                              
+I allow only values in the range 1..32767 here.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 54.
+
+
+LaTeX Warning: Reference `fig:gartenstadt-3-kleinhauskolonie' on page 1 undefin
+ed on input line 58.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 60.
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-3-Kleinhauskolonie.p
+ng, id=1560, 555.07375pt x 418.56375pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-3-Kleinhauskolo
+nie.png Graphic file (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-3-Kleinhauskolon
+ie.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenst
+adt-3-Kleinhauskolonie.png  used on input line 64.
+(luatex.def)             Requested size: 220.50891pt x 166.2793pt.
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'westermann' on page 67 undefined on input line 65.
+
+
+
+[67
+
+]
+
+[68<./Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-1.png><./Geograf
+ie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-2.png>]
+
+LaTeX Warning: Reference `fig:paris-corbusier' on page 1 undefined on input lin
+e 79.
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/paris-corbusier.png, id=1581, 54
+9.05125pt x 414.54875pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/paris-corbusier.png Graphic
+ file (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/paris-corbusier.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/paris-co
+rbusier.png  used on input line 84.
+(luatex.def)             Requested size: 220.50891pt x 166.48706pt.
+
+LaTeX Warning: Citation 'westermann' on page 69 undefined on input line 85.
+
+
+LaTeX Warning: Citation 'westermann' on page 69 undefined on input line 85.
+
+
+LaTeX Warning: Reference `fig:gegliederte-stadt' on page 1 undefined on input l
+ine 91.
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/gegliederte-Stadt.png, id=1582, 
+573.14125pt x 653.44125pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/gegliederte-Stadt.png Graph
+ic file (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/gegliederte-Stadt.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/gegliede
+rte-Stadt.png  used on input line 95.
+(luatex.def)             Requested size: 220.50891pt x 251.40117pt.
+
+LaTeX Warning: Citation 'westermann' on page 69 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'westermann' on page 69 undefined on input line 96.
+
+
+LaTeX Warning: Reference `fig:gegliederte-stadt' on page 1 undefined on input l
+ine 102.
+
+
+LaTeX Warning: Citation 'westermann' on page 69 undefined on input line 104.
+
+
+
+[69<./Geografie/Stadtgeografie/Figures/Stadtplanung/Gartenstadt-3-Kleinhauskolon
+ie.png><./Geografie/Stadtgeografie/Figures/Stadtplanung/paris-corbusier.png>]
+
+[70<./Geografie/Stadtgeografie/Figures/Stadtplanung/gegliederte-Stadt.png>]
+
+LaTeX Warning: Reference `fig:stadtplanung' on page 1 undefined on input line 1
+11.
+
+
+LaTeX Warning: Citation 'westermann' on page 71 undefined on input line 115.
+
+
+Overfull \hbox (4.8489pt too wide) in paragraph at lines 123--125
+[]\TU/lmr/bx/n/10.95 Nut-zungs-mi-schung\TU/lmr/m/n/10.95 , (...) d.h. die funk-
+tio-na-le Mi-schung in-ner-halb von Stadt-
+ []
+
+<Geografie/Stadtgeografie/Figures/Stadtplanung/Stadtplanung.png, id=1601, 1260.
+71pt x 546.04pt>
+File: Geografie/Stadtgeografie/Figures/Stadtplanung/Stadtplanung.png Graphic fi
+le (type png)
+<use Geografie/Stadtgeografie/Figures/Stadtplanung/Stadtplanung.png>
+Package luatex.def Info: Geografie/Stadtgeografie/Figures/Stadtplanung/Stadtpla
+nung.png  used on input line 134.
+(luatex.def)             Requested size: 441.01782pt x 191.01688pt.
+
+LaTeX Warning: Citation 'westermann' on page 71 undefined on input line 135.
+
+
+LaTeX Warning: Citation 'westermann' on page 71 undefined on input line 135.
+
+
+
+[71]
+
+[72<./Geografie/Stadtgeografie/Figures/Stadtplanung/Stadtplanung.png>]
+
+! LaTeX Error: File `Geografie/NZZ-Artikel/Seite_8_NZZ_-_Neue_Zürcher_Zeitung_
+2024-08-30' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ..._NZZ_-_Neue_Zürcher_Zeitung_2024-08-30}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `Geografie/NZZ-Artikel/Seite_15_NZZ_-_Neue_Zürcher_Zeitun
+g_2023-08-26' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ...NZZ_-_Neue_Zürcher_Zeitung_2023-08-26}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try ty
